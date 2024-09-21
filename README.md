@@ -1,2 +1,2 @@
 # portfolio
-this the updated version V2 for it previous version of repositiory
+this is the v2 of the portfolio
